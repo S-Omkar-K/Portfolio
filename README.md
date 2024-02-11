@@ -13,7 +13,7 @@ In this project I engineered an automated live bus tracking system in Python and
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/S-Omkar-K/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/S-Omkar-K/pyspark-projects/tree/main/instacart-association-mining)**
+<img align="left" width="250" height="150" src="https://github.com/S-Omkar-K/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis - Association Mining](https://github.com/S-Omkar-K/pyspark-projects/tree/main/instacart-association-mining)**
 
 The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
 
