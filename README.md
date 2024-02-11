@@ -3,12 +3,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 - **Email**: [saiomkarkandukuri1@gmail.com](saiomkarkandukuri1@gmail.com)
 - **LinkedIn**: [linkedin.com/saiomkarkandukuri1](https://www.linkedin.com/in/saiomkarkandukuri/)
-
-## Achievements
-- Recipient of Outstanding Master of Engineering - Industrial Engineering Student Award.
-- [Publication](https://phmpapers.org/index.php/phmconf/article/view/1292): Prognosis of Wind Turbine Gearbox Bearing Failures using SCADA and Modeled Data, Proceedings of the Annual Conference of the PHM Society 2020, Vol. 12 No. 1.
-- Winner of a TAMU Datathon 2020 among 50+ teams.
-- Recipient of TAMU Scholarship and Fee Waiver for excellent academic performance (4.0 GPA).
+- **GitHub**: [github.com/s-omkar-k](http://github.com/S-Omkar-K)
 
 ## Projects
 
@@ -18,15 +13,15 @@ In this project I engineered an automated live bus tracking system in Python and
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/S-Omkar-K/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/S-Omkar-K/Instacart-Market-Basket-Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/S-Omkar-K/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/S-Omkar-K/pyspark-projects/tree/main/instacart-association-mining)**
 
 The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/S-Omkar-K/Portfolio/blob/master/Images/1_cEaeMuTvINqIgyYQMSJWUA.jpeg"> **[Hybrid-filtering News Articles Recommendation Engine](https://github.com/S-Omkar-K/News-Articles-Recommendation)**
+<img align="left" width="250" height="150" src="https://github.com/S-Omkar-K/Portfolio/blob/master/Images/food-inspections-imagery.jpeg"> **[Chicago Food Inspections](https://github.com/S-Omkar-K/News-Articles-Recommendation)**
  
-A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
+In this project I Leveraged PySpark to develop a machine learning model predicting restaurant ratings based on public inspection comments. The model pipeline combined text pre-processing (Tokenizer, HashingTF) with Logistic Regression, analyzing the **["Chicago Food Inspections"](https://www.kaggle.com/datasets/chicago/chi-restaurant-inspections)** dataset.
 
 #
 
