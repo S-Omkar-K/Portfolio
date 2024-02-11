@@ -13,7 +13,7 @@ In this project I engineered an automated live bus tracking system in Python and
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/S-Omkar-K/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis - Association Mining](https://github.com/S-Omkar-K/pyspark-projects/tree/main/instacart-association-mining)**
+<img align="right" width="250" height="150" src="https://github.com/S-Omkar-K/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis - Association Mining](https://github.com/S-Omkar-K/pyspark-projects/tree/main/instacart-association-mining)**
 
 The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
 
@@ -25,15 +25,18 @@ In this project I Leveraged PySpark to develop a machine learning model predicti
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/S-Omkar-K/Portfolio/blob/master/Images/airplane.jpeg"> **[Predictive Maintenance of Aircraft Engine](https://github.com/S-Omkar-K/Predictive-Maintenance-of-Aircraft-Engine)**
+<img align="right" width="250" height="150" src="https://github.com/S-Omkar-K/Portfolio/blob/master/Images/worldbank-logo.jpeg"> **[Automated Data Scraping using AirFlow DAG](https://github.com/S-Omkar-K/python-projects/tree/main/airflow-automated-webscraping)**
 
-In this project I have used models such as RNN, LSTM, 1D-CNN to predict the engine failure 50 cycles ahead of its time, and calculated feature importance from them using sensitivity analysis and shap values. Exponential degradation and similarity-based models are also used to calculate its remaining life.
+In this project I have developed an automated data scraper in Python to collect World Bank data at set intervals. Integrated the scraper with AirFlow's Directed Acyclic Graph (DAG) for efficient scheduling and execution.
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/S-Omkar-K/Portfolio/blob/master/Images/960x0.jpg"> **[Wind Turbine Power Curve Estimation](https://github.com/S-Omkar-K/Wind-Turbine-Power-Curve-Estimation)**
+<img align="left" width="250" height="150" src="https://github.com/S-Omkar-K/Portfolio/blob/master/Images/unemployment-imagery.jpeg"> **[Unemployment Analysis - NLP and Predictive Modelling](https://github.com/S-Omkar-K/python-projects/tree/main/unemployment-analysis-nlp-shiny-python)**
 
-In this project, I have employed regression techniques to estimate the Power curve of an on-shore Wind turbine. Nonlinear trees based regression methods perform best as true power curve is nonlinear. XGBoost is implemented and optimized using GridSearchCV which yields lowest Test RMSE-6.404.
+Developed a dynamic and interactive Shiny app with a Python backend to analyze and visualize monthly changes in economic indicators related to unemployment. The project incorporates several key elements:
+Data Visualization: Users can explore interactive charts and graphs depicting key unemployment metrics, allowing for insightful trend analysis.
+Sentiment Analysis: Leverages spaCy to extract sentiment from news articles and labor bureau reports, providing a deeper understanding of public and economic perspectives on unemployment.
+Predictive Modeling: Users can input new reports and estimate future unemployment rates based on extracted sentiment and economic factors, empowering proactive decision-making.
 
 #
 
