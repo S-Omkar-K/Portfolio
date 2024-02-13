@@ -19,13 +19,13 @@ The objective of this project is to analyze the 3 million grocery orders from mo
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/S-Omkar-K/Portfolio/blob/master/Images/food-inspections-imagery.jpeg"> **[Chicago Food Inspections](https://github.com/S-Omkar-K/News-Articles-Recommendation)**
+<img align="left" width="250" height="150" src="https://github.com/S-Omkar-K/Portfolio/blob/master/Images/food-inspections-imagery.jpeg"> **[Chicago Food Inspections](https://github.com/S-Omkar-K/pyspark-projects/tree/main/foodinspections-nlp)**
  
 In this project I Leveraged PySpark to develop a machine learning model predicting restaurant ratings based on public inspection comments. The model pipeline combined text pre-processing (Tokenizer, HashingTF) with Logistic Regression, analyzing the **["Chicago Food Inspections"](https://www.kaggle.com/datasets/chicago/chi-restaurant-inspections)** dataset.
 
 #
 
-<img align="right" width="250" height="150" src="https://github.com/S-Omkar-K/Portfolio/blob/master/Images/worldbank-logo.jpeg"> **[Automated Data Scraping using AirFlow DAG](https://github.com/S-Omkar-K/python-projects/tree/main/airflow-automated-webscraping)**
+<img align="right" width="250" height="150" src="https://github.com/S-Omkar-K/Portfolio/blob/master/Images/worldbank-logo.jpeg"> **[Automated Data Scraping using AirFlow's DAG](https://github.com/S-Omkar-K/python-projects/tree/main/airflow-automated-webscraping)**
 
 In this project I have developed an automated data scraper in Python to collect World Bank data at set intervals. Integrated the scraper with AirFlow's Directed Acyclic Graph (DAG) for efficient scheduling and execution.
 
